@@ -3,7 +3,7 @@
   <a href="https://shashi-portfolio-qe37q782e-shashidhar-bhats-projects.vercel.app/" target="_blank">shashi-portfolio.com</a>
 </h2>
 <div align="center">
-  <img alt="Demo" src="./Images/readme-img1.png" />
+  <img alt="Demo" src="./Images/img1.png" />
 </div>
 
 <br/>
